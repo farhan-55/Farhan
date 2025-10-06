@@ -1,2 +1,3 @@
-# Farhan
-This is my first repository.
+# Android Apps
+This is my first Git repository.
+Author - Farhan Marganul
